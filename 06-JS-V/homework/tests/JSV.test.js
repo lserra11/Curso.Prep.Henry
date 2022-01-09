@@ -2,7 +2,7 @@
 const {
     crearUsuario,
 	agregarMetodoPrototype,
-	agregarStringInvertida,
+	agregarStringInvertida, 	
 	crearInstanciaPersona,
 	agregarMetodo,
 	Persona
